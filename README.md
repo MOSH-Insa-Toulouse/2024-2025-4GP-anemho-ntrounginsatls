@@ -5,3 +5,4 @@
  - [x] Créer le dépôt
  - [ ] Modifier le fichier principale de la documentation du repo 'README.md'
 
+What happens if I add something here?
