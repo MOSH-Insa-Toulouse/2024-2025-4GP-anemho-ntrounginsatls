@@ -3,4 +3,4 @@
 # Ma todo liste
 
  - [x] Créer le dépôt
- - [ ] Modifier le fichier principale de la documentation du repo 'README.md' plus a change
+ - [ ] Modifier le fichier principale de la documentation du repo 'README.md' plus a change made also in vscode now
