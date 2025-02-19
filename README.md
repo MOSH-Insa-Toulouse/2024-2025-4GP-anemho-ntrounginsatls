@@ -4,3 +4,5 @@
 
  - [x] Créer le dépôt
  - [ ] Modifier le fichier principale de la documentation du repo 'README.md'
+
+Doing the kicad project that I just created
